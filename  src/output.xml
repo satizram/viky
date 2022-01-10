@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="3" tests="4" time="11.076734">
+<testcase classname="Title of your feature" name="Title of your scenario face book forgot password" time="11.04957">
+<system-out><![CDATA[Given I want to try login facebook..........................................passed
+When I complete action and pass username and password.......................passed
+Then I validate the outcomes................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Title of your feature" name="multiple data passing" time="0.016107">
+<skipped><![CDATA[Given I want to try login flipkart..........................................passed
+When user enter 1 and.......................................................undefined
+Then I validate the outcome.................................................skipped
+]]></skipped>
+</testcase>
+<testcase classname="Title of your feature" name="multiple data passing 2" time="0.005637">
+<skipped><![CDATA[Given I want to try login flipkart..........................................passed
+When user enter 2 and.......................................................undefined
+Then I validate the outcome.................................................skipped
+]]></skipped>
+</testcase>
+<testcase classname="Title of your feature" name="multiple data passing 3" time="0.00542">
+<skipped><![CDATA[Given I want to try login flipkart..........................................passed
+When user enter 3 and.......................................................undefined
+Then I validate the outcome.................................................skipped
+]]></skipped>
+</testcase>
+</testsuite>
